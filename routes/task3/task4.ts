@@ -4,6 +4,10 @@ const router = express.Router();
 // Task 8.1.2: MongoDB queries
 router.get("/", async (req, res) => {
   try {
+    
+    // Создайте объемную коллекцию numbers
+
+
     // Query the last four documents
 
 
